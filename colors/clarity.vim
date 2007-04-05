@@ -8,7 +8,7 @@ if exists("syntax_on")
 endif
 let g:colors_name="clarity"
 
-highlight Normal         gui=NONE guifg=#D5F4FF      guibg=#334C71 
+highlight Normal         gui=NONE guifg=#D5F4FF      guibg=#334C65
 highlight Comment        gui=NONE guifg=SteelBlue2   guibg=bg 
 highlight PreProc        gui=NONE guifg=Salmon       guibg=bg 
 highlight Precondit      gui=BOLD guifg=Khaki3       guibg=bg
